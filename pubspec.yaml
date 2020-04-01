@@ -1,0 +1,9 @@
+name: gradecalculators
+description: grade calculator library for DART
+version: 0.0.1
+homepage: https://github.com/bayardlouis470/dart-grade-calculator
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dev_dependencies:
